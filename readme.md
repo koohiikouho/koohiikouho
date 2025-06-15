@@ -25,7 +25,7 @@ Actually, I don't like networking, I love it.
 
 # It's not me if I don't plaster it with Teto
 <p align=center>
-    <img src="https://i.pximg.net/img-original/img/2024/08/15/02/15/24/121497605_p0.png">
+    <img src="https://github.com/koohiikouho/koohiikouho/blob/main/tetobanner.png?raw=true">
     <br>
     Art by
     <a href="https://www.pixiv.net/en/users/13910119">
