@@ -4,7 +4,9 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
 
 <p align="center">
     <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,jquery,mysql,nodejs,py,react,rust,svelte,tailwind,bootstrap,ts,express,php,matlab"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,jquery,mysql,nodejs,py,react,rust"/>
+        <br>
+        <img src="https://skillicons.dev/icons?i=svelte,tailwind,bootstrap,ts,express,php,matlab"/>
     </a>
 </p>
 
