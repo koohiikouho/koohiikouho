@@ -17,6 +17,11 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
         <br>
         <img src="https://skillicons.dev/icons?i=notion"/> 
     </a>
+    <br>
+    And this SCOPUS indexed paper on Cloud gaming acceptance 
+    <a href="https://doi.org/10.3390/su15129189">
+        https://doi.org/10.3390/su15129189
+    </a>
 </p>
 
 # I use these too I guess
