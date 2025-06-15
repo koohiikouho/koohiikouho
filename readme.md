@@ -9,7 +9,7 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
 </p>
 
 # My CCNAv7 SRWE & ENSA Reviewers
-<p align>
+<p align=center>
     <cite>Actually, I don't like networking, I love it.</cite>
     <br>
     <a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
