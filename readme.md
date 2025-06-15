@@ -12,7 +12,7 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
 
 # I write...stuff
 <p>
-    This Scopus indexed paper on Cloud gaming acceptance
+    This Scopus indexed paper on Cloud gaming acceptance with some citations
     <ul>
         <li>
             <a href="https://doi.org/10.3390/su15129189"> https://doi.org/10.3390/su15129189 </a>
