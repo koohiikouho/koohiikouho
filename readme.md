@@ -9,10 +9,10 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
 </p>
 
 # My CCNAv7 SRWE & ENSA Reviewers
-<h2>Actually, I don't like networking, I love it.</h2>
+<cite>Actually, I don't like networking, I love it.</cite>
 <a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
-Link to my networking related reviewers hosted in
-    <img src="https://skillicons.dev/icons?=notion"> 
+    Link to my CCNAv7 reviewers hosted in
+    <img src="https://skillicons.dev/icons?i=notion"> 
 </a>
 
 # I use these too I guess
