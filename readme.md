@@ -1,6 +1,6 @@
 # __kohiko / koohiikouho / こひこ / 珈琲逮捕
 
-I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
+I like networking, IT infrastructure systems, and GNU/Linux! I also code sometimes
 
 <p align="center">
     <a href="https://skillicons.dev/">
