@@ -8,20 +8,15 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
     </a>
 </p>
 
-# My CCNAv7 SRWE & ENSA Reviewers
-<p align="center">
-    <cite>Actually, I don't like networking, I love it.</cite>
+# I write...stuff
+<p>
+    Actually, I don't like networking, I love it. Link to my CCNAv7 reviewers hosted on
+        <a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
+            Notion
+        </a>
     <br>
-    <a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
-        Link to my CCNAv7 reviewers hosted on
-        <br>
-        <img src="https://skillicons.dev/icons?i=notion"/> 
-    </a>
-    <br>
-    And this SCOPUS indexed paper on Cloud gaming acceptance 
-    <a href="https://doi.org/10.3390/su15129189">
-        https://doi.org/10.3390/su15129189
-    </a>
+    And this SCOPUS indexed paper on Cloud gaming acceptance
+    <a href="https://doi.org/10.3390/su15129189"> https://doi.org/10.3390/su15129189 </a>
 </p>
 
 # I use these too I guess
