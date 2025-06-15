@@ -3,22 +3,21 @@
 I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
 
 <p align=center>
-    <a href="skillicons.dev">
+    <a href="https://skillicons.dev/">
         <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,jquery,mysql,nodejs,py,react,rust,svelte,tailwind,bootstrap,ts,express,php,matlab">
     </a>
 </p>
 
 # My CCNAv7 SRWE & ENSA Reviewers
-Actually, I don't like networking, I love it.
-<p align=center>
-    <a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
-        Link to my networking related reviewers
-    </a>
-</p>
+<h2>Actually, I don't like networking, I love it.</h2>
+<a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
+Link to my networking related reviewers hosted in
+    <img src="https://skillicons.dev/icons?=notion"> 
+</a>
 
 # I use these too I guess
 <p align=center>
-    <a href="skillicons.dev">
+    <a href="https://skillicons.dev/">
         <img src="https://skillicons.dev/icons?i=linux,debian,mint,redhat,ubuntu,nginx,neovim,vscode,bash,windows,powershell,latex">
     </a>
 </p>
