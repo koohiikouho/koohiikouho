@@ -10,13 +10,22 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
 
 # I write...stuff
 <p>
+    This Scopus indexed paper on Cloud gaming acceptance
+    <ul>
+        <li>
+            <a href="https://doi.org/10.3390/su15129189"> https://doi.org/10.3390/su15129189 </a>
+        </li>
+    </ul>
     Actually, I don't like networking, I love it. Link to my CCNAv7 reviewers hosted on
-        <a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
-            Notion
-        </a>
-    <br>
-    And this Scopus indexed paper on Cloud gaming acceptance
-    <a href="https://doi.org/10.3390/su15129189"> https://doi.org/10.3390/su15129189 </a>
+    <ul>
+        <li>
+        
+            <a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
+                Notion
+            </a>
+        </li>
+    </ul>
+
 </p>
 
 # I use these too I guess
