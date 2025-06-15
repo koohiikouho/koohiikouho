@@ -22,7 +22,7 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
     <ul>
         <li>
             <a href="https://exclusive-scribe-2f7.notion.site/ITNET-Series-Reviewers-1bcbbf26bed680acb236faee5d507712?source=copy_link">
-                Notion
+                notion
             </a>
         </li>
     </ul>
