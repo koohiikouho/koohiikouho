@@ -31,7 +31,7 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
 # I use these too I guess
 <p align="center">
     <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=linux,debian,mint,redhat,ubuntu,nginx,neovim,vscode,bash,windows,powershell,latex">
+        <img src="https://skillicons.dev/icons?i=linux,debian,redhat,ubuntu,nginx,neovim,vscode,bash,windows,powershell,latex">
     </a>
 </p>
 
