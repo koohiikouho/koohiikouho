@@ -15,7 +15,7 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
             Notion
         </a>
     <br>
-    And this SCOPUS indexed paper on Cloud gaming acceptance
+    And this Scopus indexed paper on Cloud gaming acceptance
     <a href="https://doi.org/10.3390/su15129189"> https://doi.org/10.3390/su15129189 </a>
 </p>
 
