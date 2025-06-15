@@ -37,8 +37,9 @@ I like networking, fiddling with systems, and GNU/Linux! I also code sometimes
 
 # It's not me if I don't plaster it with Teto
 <p align="center">
-    <img    src="https://github.com/koohiikouho/koohiikouho/blob/main/tetobanner.png?raw=true"
-            href="https://www.pixiv.net/en/artworks/121497605"/>
+    <a href="https://www.pixiv.net/en/artworks/121497605">
+        <img src="https://github.com/koohiikouho/koohiikouho/blob/main/tetobanner.png?raw=true"/>
+    <a/>
     <br>
     Art by
     <a href="https://www.pixiv.net/en/users/13910119">
