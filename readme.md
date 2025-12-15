@@ -4,9 +4,13 @@ I like networking, IT infrastructure systems, and GNU/Linux! I also code sometim
 
 <p align="center">
     <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,jquery,mysql,nodejs,py,react,rust"/>
+        <img src="https://skillicons.dev/icons?i=c,cs,java,rust,py,js,ts,php,matlab,kotlin"/>
         <br>
-        <img src="https://skillicons.dev/icons?i=svelte,tailwind,bootstrap,ts,express,php,matlab"/>
+        <img src="https://skillicons.dev/icons?i=html,css,react,vue,svelte"/>
+        <br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,bun,elysia,actix,dotnet"/>
+        <br>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>        
     </a>
 </p>
 
