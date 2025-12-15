@@ -35,7 +35,7 @@ I like networking, IT infrastructure systems, and GNU/Linux! I also code sometim
 # I use these too I guess
 <p align="center">
     <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=linux,debian,redhat,ubuntu,nginx,neovim,vscode,bash,windows,powershell,latex">
+        <img src="https://skillicons.dev/icons?i=linux,debian,redhat,ubuntu,nginx,neovim,vscode,bash,windows,powershell,latex,aws,docker">
     </a>
 </p>
 
