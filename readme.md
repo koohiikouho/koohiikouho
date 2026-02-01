@@ -22,6 +22,12 @@ I like networking, IT infrastructure systems, and GNU/Linux! I also code sometim
             <a href="https://doi.org/10.3390/su15129189"> https://doi.org/10.3390/su15129189 </a>
         </li>
     </ul>
+    I also do assistant researcher stuff in CITe4D with some papers otw
+    <ul>
+        <li>
+            <a href="https://www.facebook.com/share/1FgCqWLr7v/"> idk what to put here</a>
+        </li>
+    </ul>
     Actually, I don't like networking, I love it. Link to my CCNAv7 reviewers hosted on
     <ul>
         <li>
